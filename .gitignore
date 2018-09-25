@@ -1,0 +1,7 @@
+/vendor
+composer.phar
+.DS_Store
+.idea
+Thumbs.db
+bower_components
+node_modules

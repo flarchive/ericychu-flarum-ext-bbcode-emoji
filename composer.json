@@ -1,0 +1,41 @@
+{
+    "name": "ericychu/flarum-ext-bbcode-emoji",
+    "description": "Convert text and unicode emoji into Twemoji. Only for BBCode WYSIWYG Editor extension.",
+    "type": "flarum-extension",
+    "keywords": ["formatting"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Toby Zerner",
+            "email": "toby.zerner@gmail.com"
+        },
+        {
+            "name": "Eric Chu",
+            "email": "ericchu@acgn.io"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/flarum/core/issues",
+        "source": "https://github.com/flarum/flarum-ext-emoji"
+    },
+    "require": {
+        "flarum/core": "^0.1.0-beta.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "EricYChu\\Emoji\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        },
+        "flarum-extension": {
+            "title": "Emoji for BBCode WYSIWYG Editor",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#FECC4D"
+            }
+        }
+    }
+}
