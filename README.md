@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of ericychu/flarum-ext-bbcode-emoji.** Not for installation: use [Packagist](https://packagist.org/packages/ericychu/flarum-ext-bbcode-emoji) or the [upstream repository](https://github.com/EricYChu/flarum-ext-bbcode-emoji).
 
-**0** versions archived · Latest: [`v0.1.0-beta.7`](https://github.com/flarchive/ericychu-flarum-ext-bbcode-emoji/tree/archive/v0.1.0-beta.7) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**1** versions archived · Latest: [`v0.1.0-beta.7`](https://github.com/flarchive/ericychu-flarum-ext-bbcode-emoji/tree/archive/v0.1.0-beta.7) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.7` | 2018-09-25 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ericychu-flarum-ext-bbcode-emoji/tree/archive/v0.1.0-beta.7) |
 
 Catalog entry: [packages/ericychu-flarum-ext-bbcode-emoji.json](https://github.com/flarchive/archive-index/blob/main/packages/ericychu-flarum-ext-bbcode-emoji.json)
 
